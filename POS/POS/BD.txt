@@ -1,0 +1,26 @@
+CREATE TABLE Users (
+    Id_User INT NOT NULL IDENTITY(1,1) PRIMARY KEY ,
+    Name_User VARCHAR(50),
+    Last_Name_User VARCHAR(50),
+	Password VARCHAR(50),
+	Type_User INT,
+    Status INT,
+	Created_By INT,
+	Created_At DATETIME,
+	Updated_By INT,
+	Updated_At DATETIME
+);
+
+CREATE TABLE Suppliers (
+    Id_Supplier INT NOT NULL IDENTITY(1,1) PRIMARY KEY ,
+	Code_Supplier VARCHAR(50),
+    Name_Supplier VARCHAR(50),
+    Description VARCHAR(50),
+	Price DECIMAL(10,2),
+	Quantity INT,
+    Status INT,
+	Created_By INT,
+	Created_At DATETIME,
+	Updated_By INT,
+	Updated_At DATETIME
+);

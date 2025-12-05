@@ -1,0 +1,12 @@
+C:\Users\Admin\Source\Repos\LoginC\Data\bin\Debug\Data.dll
+C:\Users\Admin\Source\Repos\LoginC\Data\bin\Debug\Data.pdb
+C:\Users\Admin\Source\Repos\LoginC\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\LoginC\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\LoginC\Data\obj\Debug\Data.dll
+C:\Users\Admin\Source\Repos\LoginC\Data\obj\Debug\Data.pdb
+C:\Users\Admin\Source\Repos\POS-\POS\Data\bin\Debug\Data.dll
+C:\Users\Admin\Source\Repos\POS-\POS\Data\bin\Debug\Data.pdb
+C:\Users\Admin\Source\Repos\POS-\POS\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\POS-\POS\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\POS-\POS\Data\obj\Debug\Data.dll
+C:\Users\Admin\Source\Repos\POS-\POS\Data\obj\Debug\Data.pdb
